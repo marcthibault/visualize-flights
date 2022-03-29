@@ -1,0 +1,6 @@
+celluloid
+basemap
+geopy
+pandas
+tqdm
+matplotlib
